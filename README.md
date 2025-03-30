@@ -1,4 +1,4 @@
-# 5.15-kernel-android13-gki for 多肉芋圆葡萄
+# 5.15-kernel-android13-gki
 
 **基于 Android13 GKI 内核 (5.15)**  
 ⚠️ 请仔细阅读完整文档后再进行操作 ⚠️
