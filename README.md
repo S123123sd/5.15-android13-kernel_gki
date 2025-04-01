@@ -1,4 +1,4 @@
-# 5.15-kernel-android13-gki for 多肉芋圆葡萄
+#清除 5.15-kernel-android13-gki for 多肉芋圆葡萄
 
 **基于 Android13 GKI 内核 (5.15)**  
 ⚠️ 请仔细阅读完整文档后再进行操作 ⚠️
@@ -101,7 +101,7 @@
 不影响QQ的正常消息推送(QQ消息可以走Mipush推送)
 ---
 - **5.FEAS出现异常(功耗爆炸)如何解决？**
-- 答: 打开MT管理器终端输入以下命令
+- 答: 打开MT管理器终端输入以下命令(清除现有云控数据):
 ```
 su -c pm clear com.xiaomi.joyose
 ```
