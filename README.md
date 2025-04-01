@@ -102,7 +102,7 @@
 ---
 **5.FEAS出现异常(功耗爆炸)如何解决？
 - 答: 打开MT管理器终端输入以下命令
-    ```bash
+```
 su -c pm clear com.xiaomi.joyose
 ```
 然后重新启动您的设备. 重启后连接WIFI网络(WIFI热点不行). 
